@@ -1,0 +1,1 @@
+AND,((NOT,((DOMAIN-SUFFIX,gstatic.com))), (NOT,((DOMAIN-SUFFIX,google.com))), (NOT,((DOMAIN-SUFFIX,googleapis.com))), (SRC-IP,192.168.50.181)),DIRECT
